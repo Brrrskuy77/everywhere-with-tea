@@ -1,0 +1,31 @@
+{
+  "name": "everywhere-with-tea",
+  "version": "1.0.0",
+  "description": "Everywhere Coding with tea",
+  "main": "index.js",
+  "scripts": {
+    "test": "everyywheretea"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Brrrskuy77/everywhere-with-tea.git"
+  },
+  "keywords": [
+    "Everywhere",
+    "with",
+    "tea"
+  ],
+  "author": "Akbar Asif Subagiyo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Brrrskuy77/everywhere-with-tea/issues"
+  },
+  "homepage": "https://github.com/Brrrskuy77/everywhere-with-tea#readme",
+  "dependencies": {
+    "@types/node": "^20.11.30",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "postcss": "^8.4.38"
+  }
+}
